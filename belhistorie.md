@@ -1,4 +1,5 @@
 <!-- TITLE: Belhistorie -->
 <!-- SUBTITLE: A quick summary of Belhistorie -->
 
-# Header
+# Voorbeelden
+![History All](/uploads/screenshots/history-all.png "History All")
