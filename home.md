@@ -1,7 +1,8 @@
 <!-- TITLE: Welkom -->
+
 <!-- SUBTITLE: Hier vindt je informatie over het gebruik van de Tam One Portal. -->
 
-# Header
+# Korte intro
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut consequat ante sit amet arcu sollicitudin auctor. Nulla at ultrices ligula. Aenean sodales tincidunt mi, quis faucibus mauris dignissim sed. Fusce egestas arcu libero, vel porta dolor egestas eu. Fusce luctus tellus quis pretium malesuada. Sed ut tellus ac sapien sodales commodo ut non tortor. Integer ac eros orci. Aenean ultrices tristique nisl sit amet bibendum. Nam eget ullamcorper arcu. Donec a dapibus nunc. Duis finibus dolor urna, in vehicula massa volutpat ac. Fusce id dui sed lectus vehicula fermentum ac at diam. In vitae augue sem.
 
